@@ -13,5 +13,8 @@ Create images like mnist dataset using simple C code
  # 运行环境
     vs2015
     
+ # 效果    
+   
+    
 
    

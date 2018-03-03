@@ -8,16 +8,11 @@ Create images like mnist dataset using simple C code
   # 本代码的第一步是仿照mnist图片的模式，生成一张28*28像素点的图片，图片中随机的产生一个病灶，且病灶的严重程度是0-9随机，生成图片并做好标记。
   
   #本代码的第二步是将图片直接输出成二进制数据，利用minist模型直接读取运行。
-  
-
    
  # 运行环境
-    vs2015
-    
-    
-#python脚本实现 
-  直接运行python脚本，也能实现相同的效果。
-
+    vs2015  
+# python脚本实现
+  直接运行python脚本，也能实现相同的效果。
  # 效果    
    
     

@@ -9,10 +9,15 @@ Create images like mnist dataset using simple C code
   
   #本代码的第二步是将图片直接输出成二进制数据，利用minist模型直接读取运行。
   
+
    
  # 运行环境
     vs2015
     
+    
+#python脚本实现 
+  直接运行python脚本，也能实现相同的效果。
+
  # 效果    
    
     
